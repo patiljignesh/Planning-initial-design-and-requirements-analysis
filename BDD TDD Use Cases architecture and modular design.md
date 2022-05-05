@@ -41,6 +41,7 @@ Further improvements of Scenarios will be :
 
 ###### Sad Path 
 
+
 ###### **Use Case 2: Load Feed Fallback**
 ###### Data: 
 - Max Age
@@ -48,6 +49,7 @@ Further improvements of Scenarios will be :
 ###### Primary Course: Happy Path
 
 ###### Sad Path 
+
 
 ###### **Use Case 3: Save Feed Items**
 ###### Data: 
