@@ -36,3 +36,7 @@ Further improvements of Scenarios will be :
 ###### Load Feed
 ###### Data: 
 - URL
+- 
+###### Primary Course: Happy Path
+
+###### San Path 
