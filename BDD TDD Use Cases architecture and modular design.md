@@ -22,3 +22,7 @@ After asking the rigt questions, we improve the requirements further
 Now the narrative improves. 
 ###### Narrative 2 
 > As an offline customer, I want the app to show the latest saved version of my image feed, so I can alway enjoy images of my friends.
+
+Further improvements of Scenarios will be :
+###### Scenarios (Acceptance criteria)
+> Given the customer doesn't have connectivity, when the customer requests to see the feed then the app should display the latest feed saved. BUT given the customer doesn't have connectivity and the cache is empty when the customer requets to see the feed then the app should display an error message. 
