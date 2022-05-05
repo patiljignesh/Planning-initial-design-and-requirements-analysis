@@ -39,4 +39,4 @@ Further improvements of Scenarios will be :
 - 
 ###### Primary Course: Happy Path
 
-###### San Path 
+###### Sad Path 
