@@ -33,7 +33,7 @@ Further improvements of Scenarios will be :
 - A use case is an agnostic of delivery mechanisms; for example UI
 - A Use case encapsulates application specific business rules
 - 
-###### **Use Case 1: Load Feed**
+## **Use Case 1: Load Feed**
 ###### Data: 
 - URL
 
@@ -42,7 +42,7 @@ Further improvements of Scenarios will be :
 ###### Sad Path 
 
 
-###### **Use Case 2: Load Feed Fallback**
+## **Use Case 2: Load Feed Fallback**
 ###### Data: 
 - Max Age
  
@@ -51,7 +51,7 @@ Further improvements of Scenarios will be :
 ###### Sad Path 
 
 
-###### **Use Case 3: Save Feed Items**
+## **Use Case 3: Save Feed Items**
 ###### Data: 
 - Feed Items
 
